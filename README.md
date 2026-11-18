@@ -1,2 +1,0 @@
-# littlefanek.github.io
-website
